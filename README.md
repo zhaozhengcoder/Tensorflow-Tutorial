@@ -1,15 +1,5 @@
-<p align="center">
-    <a href="https://www.tensorflow.org/" target="_blank">
-    <img width="40%" src="https://github.com/MorvanZhou/tutorials/blob/master/tensorflowTUT/logo.jpeg" style="max-width:100%;">
-    </a>
-</p>
 
-
-<br>
-
-### If you'd like to use **PyTorch**, no worries, I made a new **PyTorch Tutorial** just like Tensorflow. Here is the link: [https://github.com/MorvanZhou/PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial)
-
-# Tensorflow 2017 Tutorials
+# Tensorflow 2017 版教程
 
 
 In these tutorials, we will build our first Neural Network and try to build some advanced Neural Network architectures developed recent years.
